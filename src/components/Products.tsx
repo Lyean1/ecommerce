@@ -1,1 +1,1 @@
-const Products
+const Products: React.FC
