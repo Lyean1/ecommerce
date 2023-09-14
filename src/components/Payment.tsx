@@ -1,1 +1,3 @@
-const Payment : React.FC
+const Payment : React.FC = () => {
+    
+}
