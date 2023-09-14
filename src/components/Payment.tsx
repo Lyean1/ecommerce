@@ -6,4 +6,4 @@ const Payment : React.FC = () => {
     )
 }
 
-export default
+export default Payment
