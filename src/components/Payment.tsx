@@ -1,1 +1,1 @@
-const Payment
+const Payment : React.FC
