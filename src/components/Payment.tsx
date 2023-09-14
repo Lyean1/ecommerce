@@ -5,3 +5,5 @@ const Payment : React.FC = () => {
         </div>
     )
 }
+
+export
