@@ -1,7 +1,7 @@
 const Shoppingcart: React.FC = () => {
     return (
-        <div>
-            
+        <div className="shoppingcart">
+
         </div>
     )
 }
