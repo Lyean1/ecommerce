@@ -1,1 +1,3 @@
-const Shoppingcart: React.FC
+const Shoppingcart: React.FC = () => {
+    
+}
