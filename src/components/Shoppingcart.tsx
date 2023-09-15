@@ -6,4 +6,4 @@ const Shoppingcart: React.FC = () => {
     )
 }
 
-export
+export default
