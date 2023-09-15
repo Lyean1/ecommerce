@@ -1,1 +1,1 @@
-const Shoppingcart
+const Shoppingcart: React.FC
